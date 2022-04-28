@@ -1,4 +1,4 @@
-👋 Hi, I'm Matthias Bal
+### 👋 Hi, I'm Matthias Bal
 
 <!---
 inari-mbal/inari-mbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
